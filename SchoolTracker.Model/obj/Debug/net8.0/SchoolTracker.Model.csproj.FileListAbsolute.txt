@@ -1,0 +1,11 @@
+C:\Users\filip\source\repos\SchoolWebApp\SchoolTracker.Model\bin\Debug\net8.0\SchoolTracker.Model.deps.json
+C:\Users\filip\source\repos\SchoolWebApp\SchoolTracker.Model\bin\Debug\net8.0\SchoolTracker.Model.dll
+C:\Users\filip\source\repos\SchoolWebApp\SchoolTracker.Model\bin\Debug\net8.0\SchoolTracker.Model.pdb
+C:\Users\filip\source\repos\SchoolWebApp\SchoolTracker.Model\obj\Debug\net8.0\SchoolTracker.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\source\repos\SchoolWebApp\SchoolTracker.Model\obj\Debug\net8.0\SchoolTracker.Model.AssemblyInfoInputs.cache
+C:\Users\filip\source\repos\SchoolWebApp\SchoolTracker.Model\obj\Debug\net8.0\SchoolTracker.Model.AssemblyInfo.cs
+C:\Users\filip\source\repos\SchoolWebApp\SchoolTracker.Model\obj\Debug\net8.0\SchoolTracker.Model.csproj.CoreCompileInputs.cache
+C:\Users\filip\source\repos\SchoolWebApp\SchoolTracker.Model\obj\Debug\net8.0\SchoolTracker.Model.dll
+C:\Users\filip\source\repos\SchoolWebApp\SchoolTracker.Model\obj\Debug\net8.0\refint\SchoolTracker.Model.dll
+C:\Users\filip\source\repos\SchoolWebApp\SchoolTracker.Model\obj\Debug\net8.0\SchoolTracker.Model.pdb
+C:\Users\filip\source\repos\SchoolWebApp\SchoolTracker.Model\obj\Debug\net8.0\ref\SchoolTracker.Model.dll

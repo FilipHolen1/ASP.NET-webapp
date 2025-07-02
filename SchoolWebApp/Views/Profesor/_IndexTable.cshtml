@@ -1,0 +1,48 @@
+﻿@using SchoolTracker.Model
+@model List<Profesor>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Ime i prezime</th>
+            <th>Email</th>
+            <th>Predmeti</th>
+            <th>Akcije</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (!Model.Any())
+        {
+            <tr><td colspan="4">Nema rezultata.</td></tr>
+        }
+        else
+        {
+            foreach (var profesor in Model)
+            {
+                <tr>
+                    <td>@profesor.FullName</td>
+                    <td>@profesor.Email</td>
+                    <td>
+                        @if (profesor.Subjects != null && profesor.Subjects.Any())
+                        {
+                            <ul>
+                                @foreach (var subject in profesor.Subjects)
+                                {
+                                    <li>@subject.Name</li>
+                                }
+                            </ul>
+                        }
+                        else
+                        {
+                            <span>Nema predmeta</span>
+                        }
+                    </td>
+
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@profesor.ID">[uredi]</a> | <button class="btn btn-link text-danger btn-delete" data-id="@profesor.ID">[obrisi]</button>
+                    </td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>

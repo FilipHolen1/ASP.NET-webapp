@@ -1,0 +1,39 @@
+﻿@using SchoolTracker.Model
+@model List<Student>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Ime i prezime</th>
+            <th>Email</th>
+            <th>Datum Rođenja</th>
+            <th>Razred</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (!Model.Any())
+        {
+            <tr><td colspan="4">Nema rezultata.</td></tr>
+        }
+        else
+        {
+            foreach (var student in Model)
+            {
+                <tr>
+                    <td>@student.FullName</td>
+                    <td>@student.Email</td>
+                    <td>
+                        @student.DateOfBirth?.ToString("dd.MM.yyyy")
+                    </td>
+                    <td>@student.ClassYear?.Name</td>
+                    <td>
+                        <a asp-action="Details" asp-route-id="@student.ID">[ocijene]</a> | 
+                        <a asp-action="Edit" asp-route-id="@student.ID">[uredi]</a> | <button class="btn btn-link text-danger btn-delete" data-id="@student.ID">[obrisi]</button>
+                    </td>
+                  
+
+                </tr>
+            }
+        }
+    </tbody>
+</table>

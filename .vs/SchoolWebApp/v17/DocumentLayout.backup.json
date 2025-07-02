@@ -1,0 +1,908 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42AFFAD6-45DF-455E-9969-4C0CE84C2EF5}|SchoolWebApp\\SchoolWebApp.Web.csproj|c:\\users\\filip\\source\\repos\\schoolwebapp\\schoolwebapp\\views\\profesor\\_indextable.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42AFFAD6-45DF-455E-9969-4C0CE84C2EF5}|SchoolWebApp\\SchoolWebApp.Web.csproj|solutionrelative:schoolwebapp\\views\\profesor\\_indextable.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AFFAD6-45DF-455E-9969-4C0CE84C2EF5}|SchoolWebApp\\SchoolWebApp.Web.csproj|c:\\users\\filip\\source\\repos\\schoolwebapp\\schoolwebapp\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42AFFAD6-45DF-455E-9969-4C0CE84C2EF5}|SchoolWebApp\\SchoolWebApp.Web.csproj|solutionrelative:schoolwebapp\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AFFAD6-45DF-455E-9969-4C0CE84C2EF5}|SchoolWebApp\\SchoolWebApp.Web.csproj|c:\\users\\filip\\source\\repos\\schoolwebapp\\schoolwebapp\\models\\profesorfiltermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42AFFAD6-45DF-455E-9969-4C0CE84C2EF5}|SchoolWebApp\\SchoolWebApp.Web.csproj|solutionrelative:schoolwebapp\\models\\profesorfiltermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AFFAD6-45DF-455E-9969-4C0CE84C2EF5}|SchoolWebApp\\SchoolWebApp.Web.csproj|c:\\users\\filip\\source\\repos\\schoolwebapp\\schoolwebapp\\views\\student\\_createoredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42AFFAD6-45DF-455E-9969-4C0CE84C2EF5}|SchoolWebApp\\SchoolWebApp.Web.csproj|solutionrelative:schoolwebapp\\views\\student\\_createoredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AFFAD6-45DF-455E-9969-4C0CE84C2EF5}|SchoolWebApp\\SchoolWebApp.Web.csproj|c:\\users\\filip\\source\\repos\\schoolwebapp\\schoolwebapp\\models\\studentfiltermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42AFFAD6-45DF-455E-9969-4C0CE84C2EF5}|SchoolWebApp\\SchoolWebApp.Web.csproj|solutionrelative:schoolwebapp\\models\\studentfiltermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AFFAD6-45DF-455E-9969-4C0CE84C2EF5}|SchoolWebApp\\SchoolWebApp.Web.csproj|c:\\users\\filip\\source\\repos\\schoolwebapp\\schoolwebapp\\controllers\\profesorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42AFFAD6-45DF-455E-9969-4C0CE84C2EF5}|SchoolWebApp\\SchoolWebApp.Web.csproj|solutionrelative:schoolwebapp\\controllers\\profesorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E2FFA6D-6867-4F75-9ECF-7F4024C429D7}|SchoolTracker.Model\\SchoolTracker.Model.csproj|c:\\users\\filip\\source\\repos\\schoolwebapp\\schooltracker.model\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E2FFA6D-6867-4F75-9ECF-7F4024C429D7}|SchoolTracker.Model\\SchoolTracker.Model.csproj|solutionrelative:schooltracker.model\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AFFAD6-45DF-455E-9969-4C0CE84C2EF5}|SchoolWebApp\\SchoolWebApp.Web.csproj|c:\\users\\filip\\source\\repos\\schoolwebapp\\schoolwebapp\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42AFFAD6-45DF-455E-9969-4C0CE84C2EF5}|SchoolWebApp\\SchoolWebApp.Web.csproj|solutionrelative:schoolwebapp\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E2FFA6D-6867-4F75-9ECF-7F4024C429D7}|SchoolTracker.Model\\SchoolTracker.Model.csproj|c:\\users\\filip\\source\\repos\\schoolwebapp\\schooltracker.model\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E2FFA6D-6867-4F75-9ECF-7F4024C429D7}|SchoolTracker.Model\\SchoolTracker.Model.csproj|solutionrelative:schooltracker.model\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB35E093-472D-4C02-A944-53496D4DB5AE}|SchoolTracker.DAL\u017E\\SchoolTracker.DAL.csproj|c:\\users\\filip\\source\\repos\\schoolwebapp\\schooltracker.dal\u017E\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB35E093-472D-4C02-A944-53496D4DB5AE}|SchoolTracker.DAL\u017E\\SchoolTracker.DAL.csproj|solutionrelative:schooltracker.dal\u017E\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AFFAD6-45DF-455E-9969-4C0CE84C2EF5}|SchoolWebApp\\SchoolWebApp.Web.csproj|c:\\users\\filip\\source\\repos\\schoolwebapp\\schoolwebapp\\views\\profesor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42AFFAD6-45DF-455E-9969-4C0CE84C2EF5}|SchoolWebApp\\SchoolWebApp.Web.csproj|solutionrelative:schoolwebapp\\views\\profesor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E2FFA6D-6867-4F75-9ECF-7F4024C429D7}|SchoolTracker.Model\\SchoolTracker.Model.csproj|c:\\users\\filip\\source\\repos\\schoolwebapp\\schooltracker.model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E2FFA6D-6867-4F75-9ECF-7F4024C429D7}|SchoolTracker.Model\\SchoolTracker.Model.csproj|solutionrelative:schooltracker.model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E2FFA6D-6867-4F75-9ECF-7F4024C429D7}|SchoolTracker.Model\\SchoolTracker.Model.csproj|c:\\users\\filip\\source\\repos\\schoolwebapp\\schooltracker.model\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E2FFA6D-6867-4F75-9ECF-7F4024C429D7}|SchoolTracker.Model\\SchoolTracker.Model.csproj|solutionrelative:schooltracker.model\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E2FFA6D-6867-4F75-9ECF-7F4024C429D7}|SchoolTracker.Model\\SchoolTracker.Model.csproj|c:\\users\\filip\\source\\repos\\schoolwebapp\\schooltracker.model\\classyear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E2FFA6D-6867-4F75-9ECF-7F4024C429D7}|SchoolTracker.Model\\SchoolTracker.Model.csproj|solutionrelative:schooltracker.model\\classyear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AFFAD6-45DF-455E-9969-4C0CE84C2EF5}|SchoolWebApp\\SchoolWebApp.Web.csproj|c:\\users\\filip\\source\\repos\\schoolwebapp\\schoolwebapp\\views\\profesor\\_createoredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42AFFAD6-45DF-455E-9969-4C0CE84C2EF5}|SchoolWebApp\\SchoolWebApp.Web.csproj|solutionrelative:schoolwebapp\\views\\profesor\\_createoredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB35E093-472D-4C02-A944-53496D4DB5AE}|SchoolTracker.DAL\u017E\\SchoolTracker.DAL.csproj|c:\\users\\filip\\source\\repos\\schoolwebapp\\schooltracker.dal\u017E\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB35E093-472D-4C02-A944-53496D4DB5AE}|SchoolTracker.DAL\u017E\\SchoolTracker.DAL.csproj|solutionrelative:schooltracker.dal\u017E\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB35E093-472D-4C02-A944-53496D4DB5AE}|SchoolTracker.DAL\u017E\\SchoolTracker.DAL.csproj|c:\\users\\filip\\source\\repos\\schoolwebapp\\schooltracker.dal\u017E\\schooltracker.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AB35E093-472D-4C02-A944-53496D4DB5AE}|SchoolTracker.DAL\u017E\\SchoolTracker.DAL.csproj|solutionrelative:schooltracker.dal\u017E\\schooltracker.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AFFAD6-45DF-455E-9969-4C0CE84C2EF5}|SchoolWebApp\\SchoolWebApp.Web.csproj|c:\\users\\filip\\source\\repos\\schoolwebapp\\schoolwebapp\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42AFFAD6-45DF-455E-9969-4C0CE84C2EF5}|SchoolWebApp\\SchoolWebApp.Web.csproj|solutionrelative:schoolwebapp\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AFFAD6-45DF-455E-9969-4C0CE84C2EF5}|SchoolWebApp\\SchoolWebApp.Web.csproj|c:\\users\\filip\\source\\repos\\schoolwebapp\\schoolwebapp\\views\\profesor\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42AFFAD6-45DF-455E-9969-4C0CE84C2EF5}|SchoolWebApp\\SchoolWebApp.Web.csproj|solutionrelative:schoolwebapp\\views\\profesor\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB35E093-472D-4C02-A944-53496D4DB5AE}|SchoolTracker.DAL\u017E\\SchoolTracker.DAL.csproj|c:\\users\\filip\\source\\repos\\schoolwebapp\\schooltracker.dal\u017E\\predmet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB35E093-472D-4C02-A944-53496D4DB5AE}|SchoolTracker.DAL\u017E\\SchoolTracker.DAL.csproj|solutionrelative:schooltracker.dal\u017E\\predmet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB35E093-472D-4C02-A944-53496D4DB5AE}|SchoolTracker.DAL\u017E\\SchoolTracker.DAL.csproj|c:\\users\\filip\\source\\repos\\schoolwebapp\\schooltracker.dal\u017E\\migrations\\20250624101708_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB35E093-472D-4C02-A944-53496D4DB5AE}|SchoolTracker.DAL\u017E\\SchoolTracker.DAL.csproj|solutionrelative:schooltracker.dal\u017E\\migrations\\20250624101708_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB35E093-472D-4C02-A944-53496D4DB5AE}|SchoolTracker.DAL\u017E\\SchoolTracker.DAL.csproj|c:\\users\\filip\\source\\repos\\schoolwebapp\\schooltracker.dal\u017E\\migrations\\20250624101708_initial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB35E093-472D-4C02-A944-53496D4DB5AE}|SchoolTracker.DAL\u017E\\SchoolTracker.DAL.csproj|solutionrelative:schooltracker.dal\u017E\\migrations\\20250624101708_initial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB35E093-472D-4C02-A944-53496D4DB5AE}|SchoolTracker.DAL\u017E\\SchoolTracker.DAL.csproj|c:\\users\\filip\\source\\repos\\schoolwebapp\\schooltracker.dal\u017E\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB35E093-472D-4C02-A944-53496D4DB5AE}|SchoolTracker.DAL\u017E\\SchoolTracker.DAL.csproj|solutionrelative:schooltracker.dal\u017E\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AFFAD6-45DF-455E-9969-4C0CE84C2EF5}|SchoolWebApp\\SchoolWebApp.Web.csproj|c:\\users\\filip\\source\\repos\\schoolwebapp\\schoolwebapp\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{42AFFAD6-45DF-455E-9969-4C0CE84C2EF5}|SchoolWebApp\\SchoolWebApp.Web.csproj|solutionrelative:schoolwebapp\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AFFAD6-45DF-455E-9969-4C0CE84C2EF5}|SchoolWebApp\\SchoolWebApp.Web.csproj|c:\\users\\filip\\source\\repos\\schoolwebapp\\schoolwebapp\\views\\student\\_indextable.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42AFFAD6-45DF-455E-9969-4C0CE84C2EF5}|SchoolWebApp\\SchoolWebApp.Web.csproj|solutionrelative:schoolwebapp\\views\\student\\_indextable.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AFFAD6-45DF-455E-9969-4C0CE84C2EF5}|SchoolWebApp\\SchoolWebApp.Web.csproj|c:\\users\\filip\\source\\repos\\schoolwebapp\\schoolwebapp\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42AFFAD6-45DF-455E-9969-4C0CE84C2EF5}|SchoolWebApp\\SchoolWebApp.Web.csproj|solutionrelative:schoolwebapp\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AFFAD6-45DF-455E-9969-4C0CE84C2EF5}|SchoolWebApp\\SchoolWebApp.Web.csproj|c:\\users\\filip\\source\\repos\\schoolwebapp\\schoolwebapp\\views\\profesor\\_profesorfilter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42AFFAD6-45DF-455E-9969-4C0CE84C2EF5}|SchoolWebApp\\SchoolWebApp.Web.csproj|solutionrelative:schoolwebapp\\views\\profesor\\_profesorfilter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AFFAD6-45DF-455E-9969-4C0CE84C2EF5}|SchoolWebApp\\SchoolWebApp.Web.csproj|c:\\users\\filip\\source\\repos\\schoolwebapp\\schoolwebapp\\views\\profesor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42AFFAD6-45DF-455E-9969-4C0CE84C2EF5}|SchoolWebApp\\SchoolWebApp.Web.csproj|solutionrelative:schoolwebapp\\views\\profesor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AFFAD6-45DF-455E-9969-4C0CE84C2EF5}|SchoolWebApp\\SchoolWebApp.Web.csproj|c:\\users\\filip\\source\\repos\\schoolwebapp\\schoolwebapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42AFFAD6-45DF-455E-9969-4C0CE84C2EF5}|SchoolWebApp\\SchoolWebApp.Web.csproj|solutionrelative:schoolwebapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AFFAD6-45DF-455E-9969-4C0CE84C2EF5}|SchoolWebApp\\SchoolWebApp.Web.csproj|c:\\users\\filip\\source\\repos\\schoolwebapp\\schoolwebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42AFFAD6-45DF-455E-9969-4C0CE84C2EF5}|SchoolWebApp\\SchoolWebApp.Web.csproj|solutionrelative:schoolwebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AFFAD6-45DF-455E-9969-4C0CE84C2EF5}|SchoolWebApp\\SchoolWebApp.Web.csproj|c:\\users\\filip\\source\\repos\\schoolwebapp\\schoolwebapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42AFFAD6-45DF-455E-9969-4C0CE84C2EF5}|SchoolWebApp\\SchoolWebApp.Web.csproj|solutionrelative:schoolwebapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AFFAD6-45DF-455E-9969-4C0CE84C2EF5}|SchoolWebApp\\SchoolWebApp.Web.csproj|c:\\users\\filip\\source\\repos\\schoolwebapp\\schoolwebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42AFFAD6-45DF-455E-9969-4C0CE84C2EF5}|SchoolWebApp\\SchoolWebApp.Web.csproj|solutionrelative:schoolwebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AFFAD6-45DF-455E-9969-4C0CE84C2EF5}|SchoolWebApp\\SchoolWebApp.Web.csproj|c:\\users\\filip\\source\\repos\\schoolwebapp\\schoolwebapp\\schoolwebapp.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{42AFFAD6-45DF-455E-9969-4C0CE84C2EF5}|SchoolWebApp\\SchoolWebApp.Web.csproj|solutionrelative:schoolwebapp\\schoolwebapp.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AFFAD6-45DF-455E-9969-4C0CE84C2EF5}|SchoolWebApp\\SchoolWebApp.Web.csproj|c:\\users\\filip\\source\\repos\\schoolwebapp\\schoolwebapp\\views\\student\\_studentfilter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42AFFAD6-45DF-455E-9969-4C0CE84C2EF5}|SchoolWebApp\\SchoolWebApp.Web.csproj|solutionrelative:schoolwebapp\\views\\student\\_studentfilter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AFFAD6-45DF-455E-9969-4C0CE84C2EF5}|SchoolWebApp\\SchoolWebApp.Web.csproj|c:\\users\\filip\\source\\repos\\schoolwebapp\\schoolwebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42AFFAD6-45DF-455E-9969-4C0CE84C2EF5}|SchoolWebApp\\SchoolWebApp.Web.csproj|solutionrelative:schoolwebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\filip\\AppData\\Local\\Temp\\.vsdbgsrc\\fb2807fc5f0036b185c132a80d35c7e7fbc867752ff70e622cd36f6de49b0d90\\ServiceCollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AFFAD6-45DF-455E-9969-4C0CE84C2EF5}|SchoolWebApp\\SchoolWebApp.Web.csproj|c:\\users\\filip\\source\\repos\\schoolwebapp\\schoolwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42AFFAD6-45DF-455E-9969-4C0CE84C2EF5}|SchoolWebApp\\SchoolWebApp.Web.csproj|solutionrelative:schoolwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolTracker.DAL\u017E\\Migrations\\20250626133710_InheritFromAppUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SchoolTracker.DAL\u017E\\Migrations\\20250626133710_InheritFromAppUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E2FFA6D-6867-4F75-9ECF-7F4024C429D7}|SchoolTracker.Model\\SchoolTracker.Model.csproj|c:\\users\\filip\\source\\repos\\schoolwebapp\\schooltracker.model\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E2FFA6D-6867-4F75-9ECF-7F4024C429D7}|SchoolTracker.Model\\SchoolTracker.Model.csproj|solutionrelative:schooltracker.model\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\filip\\AppData\\Local\\Temp\\.vsdbgsrc\\398ae81ea547d638768fff59641ffcd9c3babcef64b4b7ab703618baf49613d5\\SqlConnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AFFAD6-45DF-455E-9969-4C0CE84C2EF5}|SchoolWebApp\\SchoolWebApp.Web.csproj|c:\\users\\filip\\source\\repos\\schoolwebapp\\schoolwebapp\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42AFFAD6-45DF-455E-9969-4C0CE84C2EF5}|SchoolWebApp\\SchoolWebApp.Web.csproj|solutionrelative:schoolwebapp\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AFFAD6-45DF-455E-9969-4C0CE84C2EF5}|SchoolWebApp\\SchoolWebApp.Web.csproj|c:\\users\\filip\\source\\repos\\schoolwebapp\\schoolwebapp\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42AFFAD6-45DF-455E-9969-4C0CE84C2EF5}|SchoolWebApp\\SchoolWebApp.Web.csproj|solutionrelative:schoolwebapp\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AFFAD6-45DF-455E-9969-4C0CE84C2EF5}|SchoolWebApp\\SchoolWebApp.Web.csproj|c:\\users\\filip\\source\\repos\\schoolwebapp\\schoolwebapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42AFFAD6-45DF-455E-9969-4C0CE84C2EF5}|SchoolWebApp\\SchoolWebApp.Web.csproj|solutionrelative:schoolwebapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AFFAD6-45DF-455E-9969-4C0CE84C2EF5}|SchoolWebApp\\SchoolWebApp.Web.csproj|c:\\users\\filip\\source\\repos\\schoolwebapp\\schoolwebapp\\views\\profesor\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42AFFAD6-45DF-455E-9969-4C0CE84C2EF5}|SchoolWebApp\\SchoolWebApp.Web.csproj|solutionrelative:schoolwebapp\\views\\profesor\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AFFAD6-45DF-455E-9969-4C0CE84C2EF5}|SchoolWebApp\\SchoolWebApp.Web.csproj|c:\\users\\filip\\source\\repos\\schoolwebapp\\schoolwebapp\\views\\profesor\\profesorfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42AFFAD6-45DF-455E-9969-4C0CE84C2EF5}|SchoolWebApp\\SchoolWebApp.Web.csproj|solutionrelative:schoolwebapp\\views\\profesor\\profesorfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolTracker.DAL\u017E\\Migrations\\20250624120424_UpdateAll2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SchoolTracker.DAL\u017E\\Migrations\\20250624120424_UpdateAll2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E2FFA6D-6867-4F75-9ECF-7F4024C429D7}|SchoolTracker.Model\\SchoolTracker.Model.csproj|c:\\users\\filip\\source\\repos\\schoolwebapp\\schooltracker.model\\schooltracker.model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5E2FFA6D-6867-4F75-9ECF-7F4024C429D7}|SchoolTracker.Model\\SchoolTracker.Model.csproj|solutionrelative:schooltracker.model\\schooltracker.model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\filip\\AppData\\Local\\Temp\\.vsdbgsrc\\b38c7bbc046e461a8a58c7e0eb00bea4828feec3606c51aaae6062bc28a1448e\\FileConfigurationProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|Solution Items{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|C:\\Users\\filip\\source\\repos\\SchoolWebApp\\.editorconfig||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|Solution Items{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|solutionrelative:.editorconfig||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB35E093-472D-4C02-A944-53496D4DB5AE}|SchoolTracker.DAL\u017E\\SchoolTracker.DAL.csproj|c:\\users\\filip\\source\\repos\\schoolwebapp\\schooltracker.dal\u017E\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB35E093-472D-4C02-A944-53496D4DB5AE}|SchoolTracker.DAL\u017E\\SchoolTracker.DAL.csproj|solutionrelative:schooltracker.dal\u017E\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB35E093-472D-4C02-A944-53496D4DB5AE}|SchoolTracker.DAL\u017E\\SchoolTracker.DAL.csproj|c:\\users\\filip\\source\\repos\\schoolwebapp\\schooltracker.dal\u017E\\migrations\\20250624120542_updateall2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB35E093-472D-4C02-A944-53496D4DB5AE}|SchoolTracker.DAL\u017E\\SchoolTracker.DAL.csproj|solutionrelative:schooltracker.dal\u017E\\migrations\\20250624120542_updateall2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB35E093-472D-4C02-A944-53496D4DB5AE}|SchoolTracker.DAL\u017E\\SchoolTracker.DAL.csproj|c:\\users\\filip\\source\\repos\\schoolwebapp\\schooltracker.dal\u017E\\migrations\\20250624105015_updatedateofbirthtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB35E093-472D-4C02-A944-53496D4DB5AE}|SchoolTracker.DAL\u017E\\SchoolTracker.DAL.csproj|solutionrelative:schooltracker.dal\u017E\\migrations\\20250624105015_updatedateofbirthtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB35E093-472D-4C02-A944-53496D4DB5AE}|SchoolTracker.DAL\u017E\\SchoolTracker.DAL.csproj|c:\\users\\filip\\source\\repos\\schoolwebapp\\schooltracker.dal\u017E\\migrations\\20250624114443_updateallentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB35E093-472D-4C02-A944-53496D4DB5AE}|SchoolTracker.DAL\u017E\\SchoolTracker.DAL.csproj|solutionrelative:schooltracker.dal\u017E\\migrations\\20250624114443_updateallentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB35E093-472D-4C02-A944-53496D4DB5AE}|SchoolTracker.DAL\u017E\\SchoolTracker.DAL.csproj|c:\\users\\filip\\source\\repos\\schoolwebapp\\schooltracker.dal\u017E\\migrations\\20250624101124_updatemodelstructure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB35E093-472D-4C02-A944-53496D4DB5AE}|SchoolTracker.DAL\u017E\\SchoolTracker.DAL.csproj|solutionrelative:schooltracker.dal\u017E\\migrations\\20250624101124_updatemodelstructure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolWebApp\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "SchoolWebApp\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolWebApp\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "SchoolWebApp\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T12:19:08.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProfesorController.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolWebApp\\Controllers\\ProfesorController.cs",
+              "RelativeDocumentMoniker": "SchoolWebApp\\Controllers\\ProfesorController.cs",
+              "ToolTip": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolWebApp\\Controllers\\ProfesorController.cs",
+              "RelativeToolTip": "SchoolWebApp\\Controllers\\ProfesorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T16:10:06.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_CreateOrEdit.cshtml",
+              "DocumentMoniker": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolWebApp\\Views\\Student\\_CreateOrEdit.cshtml",
+              "RelativeDocumentMoniker": "SchoolWebApp\\Views\\Student\\_CreateOrEdit.cshtml",
+              "ToolTip": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolWebApp\\Views\\Student\\_CreateOrEdit.cshtml",
+              "RelativeToolTip": "SchoolWebApp\\Views\\Student\\_CreateOrEdit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T10:56:10.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentFilterModel.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolWebApp\\Models\\StudentFilterModel.cs",
+              "RelativeDocumentMoniker": "SchoolWebApp\\Models\\StudentFilterModel.cs",
+              "ToolTip": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolWebApp\\Models\\StudentFilterModel.cs",
+              "RelativeToolTip": "SchoolWebApp\\Models\\StudentFilterModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T13:59:04.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolWebApp\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "SchoolWebApp\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolWebApp\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "SchoolWebApp\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAswA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T14:03:38.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProfesorFilterModel.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolWebApp\\Models\\ProfesorFilterModel.cs",
+              "RelativeDocumentMoniker": "SchoolWebApp\\Models\\ProfesorFilterModel.cs",
+              "ToolTip": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolWebApp\\Models\\ProfesorFilterModel.cs",
+              "RelativeToolTip": "SchoolWebApp\\Models\\ProfesorFilterModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T16:07:46.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_IndexTable.cshtml",
+              "DocumentMoniker": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolWebApp\\Views\\Profesor\\_IndexTable.cshtml",
+              "RelativeDocumentMoniker": "SchoolWebApp\\Views\\Profesor\\_IndexTable.cshtml",
+              "ToolTip": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolWebApp\\Views\\Profesor\\_IndexTable.cshtml",
+              "RelativeToolTip": "SchoolWebApp\\Views\\Profesor\\_IndexTable.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T15:27:08.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolTracker.DAL\u017E\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "SchoolTracker.DAL\u017E\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolTracker.DAL\u017E\\DbInitializer.cs",
+              "RelativeToolTip": "SchoolTracker.DAL\u017E\\DbInitializer.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T14:31:14.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolWebApp\\Views\\Profesor\\Index.cshtml",
+              "RelativeDocumentMoniker": "SchoolWebApp\\Views\\Profesor\\Index.cshtml",
+              "ToolTip": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolWebApp\\Views\\Profesor\\Index.cshtml",
+              "RelativeToolTip": "SchoolWebApp\\Views\\Profesor\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T12:27:44.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolTracker.Model\\Student.cs",
+              "RelativeDocumentMoniker": "SchoolTracker.Model\\Student.cs",
+              "ToolTip": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolTracker.Model\\Student.cs",
+              "RelativeToolTip": "SchoolTracker.Model\\Student.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAswBUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T12:29:40.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolTracker.Model\\Subject.cs",
+              "RelativeDocumentMoniker": "SchoolTracker.Model\\Subject.cs",
+              "ToolTip": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolTracker.Model\\Subject.cs",
+              "RelativeToolTip": "SchoolTracker.Model\\Subject.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T12:29:39.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ClassYear.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolTracker.Model\\ClassYear.cs",
+              "RelativeDocumentMoniker": "SchoolTracker.Model\\ClassYear.cs",
+              "ToolTip": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolTracker.Model\\ClassYear.cs",
+              "RelativeToolTip": "SchoolTracker.Model\\ClassYear.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T12:33:28.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Grade.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolTracker.Model\\Grade.cs",
+              "RelativeDocumentMoniker": "SchoolTracker.Model\\Grade.cs",
+              "ToolTip": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolTracker.Model\\Grade.cs",
+              "RelativeToolTip": "SchoolTracker.Model\\Grade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T12:34:20.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Profesor.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolTracker.Model\\Profesor.cs",
+              "RelativeDocumentMoniker": "SchoolTracker.Model\\Profesor.cs",
+              "ToolTip": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolTracker.Model\\Profesor.cs",
+              "RelativeToolTip": "SchoolTracker.Model\\Profesor.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T12:33:54.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_CreateOrEdit.cshtml",
+              "DocumentMoniker": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolWebApp\\Views\\Profesor\\_CreateOrEdit.cshtml",
+              "RelativeDocumentMoniker": "SchoolWebApp\\Views\\Profesor\\_CreateOrEdit.cshtml",
+              "ToolTip": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolWebApp\\Views\\Profesor\\_CreateOrEdit.cshtml",
+              "RelativeToolTip": "SchoolWebApp\\Views\\Profesor\\_CreateOrEdit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T12:28:17.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolWebApp\\Views\\Student\\Edit.cshtml",
+              "RelativeDocumentMoniker": "SchoolWebApp\\Views\\Student\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolWebApp\\Views\\Student\\Edit.cshtml",
+              "RelativeToolTip": "SchoolWebApp\\Views\\Student\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T10:55:50.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolWebApp\\Views\\Profesor\\Edit.cshtml",
+              "RelativeDocumentMoniker": "SchoolWebApp\\Views\\Profesor\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolWebApp\\Views\\Profesor\\Edit.cshtml",
+              "RelativeToolTip": "SchoolWebApp\\Views\\Profesor\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T12:28:42.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SchoolTracker.DAL.csproj",
+              "DocumentMoniker": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolTracker.DAL\u017E\\SchoolTracker.DAL.csproj",
+              "RelativeDocumentMoniker": "SchoolTracker.DAL\u017E\\SchoolTracker.DAL.csproj",
+              "ToolTip": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolTracker.DAL\u017E\\SchoolTracker.DAL.csproj",
+              "RelativeToolTip": "SchoolTracker.DAL\u017E\\SchoolTracker.DAL.csproj",
+              "ViewState": "AgIAABEAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-27T07:10:34.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolTracker.DAL\u017E\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SchoolTracker.DAL\u017E\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolTracker.DAL\u017E\\ApplicationDbContext.cs",
+              "RelativeToolTip": "SchoolTracker.DAL\u017E\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T12:15:57.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Predmet.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolTracker.DAL\u017E\\Predmet.cs",
+              "RelativeDocumentMoniker": "SchoolTracker.DAL\u017E\\Predmet.cs",
+              "ToolTip": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolTracker.DAL\u017E\\Predmet.cs",
+              "RelativeToolTip": "SchoolTracker.DAL\u017E\\Predmet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T15:20:31.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolTracker.DAL\u017E\\Student.cs",
+              "RelativeDocumentMoniker": "SchoolTracker.DAL\u017E\\Student.cs",
+              "ToolTip": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolTracker.DAL\u017E\\Student.cs",
+              "RelativeToolTip": "SchoolTracker.DAL\u017E\\Student.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAWwBUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T15:21:35.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20250624101708_Initial.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolTracker.DAL\u017E\\Migrations\\20250624101708_Initial.Designer.cs",
+              "RelativeDocumentMoniker": "SchoolTracker.DAL\u017E\\Migrations\\20250624101708_Initial.Designer.cs",
+              "ToolTip": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolTracker.DAL\u017E\\Migrations\\20250624101708_Initial.Designer.cs",
+              "RelativeToolTip": "SchoolTracker.DAL\u017E\\Migrations\\20250624101708_Initial.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T15:21:44.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20250624101708_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolTracker.DAL\u017E\\Migrations\\20250624101708_Initial.cs",
+              "RelativeDocumentMoniker": "SchoolTracker.DAL\u017E\\Migrations\\20250624101708_Initial.cs",
+              "ToolTip": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolTracker.DAL\u017E\\Migrations\\20250624101708_Initial.cs",
+              "RelativeToolTip": "SchoolTracker.DAL\u017E\\Migrations\\20250624101708_Initial.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAA1wIgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T10:17:09.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "readme.md",
+              "DocumentMoniker": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolWebApp\\readme.md",
+              "RelativeDocumentMoniker": "SchoolWebApp\\readme.md",
+              "ToolTip": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolWebApp\\readme.md",
+              "RelativeToolTip": "SchoolWebApp\\readme.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-06-26T15:03:56.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_IndexTable.cshtml",
+              "DocumentMoniker": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolWebApp\\Views\\Student\\_IndexTable.cshtml",
+              "RelativeDocumentMoniker": "SchoolWebApp\\Views\\Student\\_IndexTable.cshtml",
+              "ToolTip": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolWebApp\\Views\\Student\\_IndexTable.cshtml",
+              "RelativeToolTip": "SchoolWebApp\\Views\\Student\\_IndexTable.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB4AAACnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T12:25:41.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": ".editorconfig",
+              "DocumentMoniker": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\.editorconfig",
+              "RelativeDocumentMoniker": ".editorconfig",
+              "ToolTip": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\.editorconfig",
+              "RelativeToolTip": ".editorconfig",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-26T15:02:53.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolWebApp\\Views\\Student\\Details.cshtml",
+              "RelativeDocumentMoniker": "SchoolWebApp\\Views\\Student\\Details.cshtml",
+              "ToolTip": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolWebApp\\Views\\Student\\Details.cshtml",
+              "RelativeToolTip": "SchoolWebApp\\Views\\Student\\Details.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-26T14:46:43.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_ProfesorFilter.cshtml",
+              "DocumentMoniker": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolWebApp\\Views\\Profesor\\_ProfesorFilter.cshtml",
+              "RelativeDocumentMoniker": "SchoolWebApp\\Views\\Profesor\\_ProfesorFilter.cshtml",
+              "ToolTip": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolWebApp\\Views\\Profesor\\_ProfesorFilter.cshtml",
+              "RelativeToolTip": "SchoolWebApp\\Views\\Profesor\\_ProfesorFilter.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T16:07:10.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolWebApp\\Views\\Profesor\\Create.cshtml",
+              "RelativeDocumentMoniker": "SchoolWebApp\\Views\\Profesor\\Create.cshtml",
+              "ToolTip": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolWebApp\\Views\\Profesor\\Create.cshtml",
+              "RelativeToolTip": "SchoolWebApp\\Views\\Profesor\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T12:28:31.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolWebApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "SchoolWebApp\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolWebApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "SchoolWebApp\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-21T11:44:20.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SchoolWebApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SchoolWebApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-21T11:44:15.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolWebApp\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "SchoolWebApp\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolWebApp\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "SchoolWebApp\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T14:30:08.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolWebApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SchoolWebApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolWebApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SchoolWebApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T10:02:00.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SchoolWebApp.Web.csproj",
+              "DocumentMoniker": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolWebApp\\SchoolWebApp.Web.csproj",
+              "RelativeDocumentMoniker": "SchoolWebApp\\SchoolWebApp.Web.csproj",
+              "ToolTip": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolWebApp\\SchoolWebApp.Web.csproj",
+              "RelativeToolTip": "SchoolWebApp\\SchoolWebApp.Web.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-23T11:53:22.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "_StudentFilter.cshtml",
+              "DocumentMoniker": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolWebApp\\Views\\Student\\_StudentFilter.cshtml",
+              "RelativeDocumentMoniker": "SchoolWebApp\\Views\\Student\\_StudentFilter.cshtml",
+              "ToolTip": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolWebApp\\Views\\Student\\_StudentFilter.cshtml",
+              "RelativeToolTip": "SchoolWebApp\\Views\\Student\\_StudentFilter.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T13:57:58.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SchoolWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SchoolWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwCEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-21T11:44:21.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ServiceCollection.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\AppData\\Local\\Temp\\.vsdbgsrc\\fb2807fc5f0036b185c132a80d35c7e7fbc867752ff70e622cd36f6de49b0d90\\ServiceCollection.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\fb2807fc5f0036b185c132a80d35c7e7fbc867752ff70e622cd36f6de49b0d90\\ServiceCollection.cs",
+              "ToolTip": "C:\\Users\\filip\\AppData\\Local\\Temp\\.vsdbgsrc\\fb2807fc5f0036b185c132a80d35c7e7fbc867752ff70e622cd36f6de49b0d90\\ServiceCollection.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\fb2807fc5f0036b185c132a80d35c7e7fbc867752ff70e622cd36f6de49b0d90\\ServiceCollection.cs [Read Only]",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAUwHsAAAACAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T13:41:41.016Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "SqlConnection.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\AppData\\Local\\Temp\\.vsdbgsrc\\398ae81ea547d638768fff59641ffcd9c3babcef64b4b7ab703618baf49613d5\\SqlConnection.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\398ae81ea547d638768fff59641ffcd9c3babcef64b4b7ab703618baf49613d5\\SqlConnection.cs",
+              "ToolTip": "C:\\Users\\filip\\AppData\\Local\\Temp\\.vsdbgsrc\\398ae81ea547d638768fff59641ffcd9c3babcef64b4b7ab703618baf49613d5\\SqlConnection.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\398ae81ea547d638768fff59641ffcd9c3babcef64b4b7ab703618baf49613d5\\SqlConnection.cs [Read Only]",
+              "ViewState": "AgIAAC8GAAAAAAAAAAAUwDoGAAADAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T11:45:54.103Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "SchoolWebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolWebApp\\Program.cs",
+              "RelativeToolTip": "SchoolWebApp\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAUwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T11:44:39.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20250626133710_InheritFromAppUser.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolTracker.DAL\u017E\\Migrations\\20250626133710_InheritFromAppUser.cs",
+              "RelativeDocumentMoniker": "SchoolTracker.DAL\u017E\\Migrations\\20250626133710_InheritFromAppUser.cs",
+              "ToolTip": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolTracker.DAL\u017E\\Migrations\\20250626133710_InheritFromAppUser.cs",
+              "RelativeToolTip": "SchoolTracker.DAL\u017E\\Migrations\\20250626133710_InheritFromAppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T13:37:11.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolTracker.Model\\AppUser.cs",
+              "RelativeDocumentMoniker": "SchoolTracker.Model\\AppUser.cs",
+              "ToolTip": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolTracker.Model\\AppUser.cs",
+              "RelativeToolTip": "SchoolTracker.Model\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T13:25:07.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolWebApp\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "SchoolWebApp\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolWebApp\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "SchoolWebApp\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T13:27:50.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolWebApp\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "SchoolWebApp\\Views\\Student\\Create.cshtml",
+              "ToolTip": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolWebApp\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "SchoolWebApp\\Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T10:55:40.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolWebApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "SchoolWebApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolWebApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "SchoolWebApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T16:11:27.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ProfesorFilter.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolWebApp\\Views\\Profesor\\ProfesorFilter.cs",
+              "RelativeDocumentMoniker": "SchoolWebApp\\Views\\Profesor\\ProfesorFilter.cs",
+              "ToolTip": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolWebApp\\Views\\Profesor\\ProfesorFilter.cs",
+              "RelativeToolTip": "SchoolWebApp\\Views\\Profesor\\ProfesorFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T16:06:37.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Index1.cshtml",
+              "DocumentMoniker": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolWebApp\\Views\\Profesor\\Index1.cshtml",
+              "RelativeDocumentMoniker": "SchoolWebApp\\Views\\Profesor\\Index1.cshtml",
+              "ToolTip": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolWebApp\\Views\\Profesor\\Index1.cshtml",
+              "RelativeToolTip": "SchoolWebApp\\Views\\Profesor\\Index1.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T16:06:54.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolTracker.DAL\u017E\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "SchoolTracker.DAL\u017E\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolTracker.DAL\u017E\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "SchoolTracker.DAL\u017E\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T15:54:43.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "20250624120542_UpdateAll2.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolTracker.DAL\u017E\\Migrations\\20250624120542_UpdateAll2.cs",
+              "RelativeDocumentMoniker": "SchoolTracker.DAL\u017E\\Migrations\\20250624120542_UpdateAll2.cs",
+              "ToolTip": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolTracker.DAL\u017E\\Migrations\\20250624120542_UpdateAll2.cs",
+              "RelativeToolTip": "SchoolTracker.DAL\u017E\\Migrations\\20250624120542_UpdateAll2.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T12:05:42.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "20250624105015_UpdateDateOfBirthType.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolTracker.DAL\u017E\\Migrations\\20250624105015_UpdateDateOfBirthType.cs",
+              "RelativeDocumentMoniker": "SchoolTracker.DAL\u017E\\Migrations\\20250624105015_UpdateDateOfBirthType.cs",
+              "ToolTip": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolTracker.DAL\u017E\\Migrations\\20250624105015_UpdateDateOfBirthType.cs",
+              "RelativeToolTip": "SchoolTracker.DAL\u017E\\Migrations\\20250624105015_UpdateDateOfBirthType.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T10:50:16.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "20250624114443_UpdateAllEntities.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolTracker.DAL\u017E\\Migrations\\20250624114443_UpdateAllEntities.cs",
+              "RelativeDocumentMoniker": "SchoolTracker.DAL\u017E\\Migrations\\20250624114443_UpdateAllEntities.cs",
+              "ToolTip": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolTracker.DAL\u017E\\Migrations\\20250624114443_UpdateAllEntities.cs",
+              "RelativeToolTip": "SchoolTracker.DAL\u017E\\Migrations\\20250624114443_UpdateAllEntities.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T11:44:44.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "20250624120424_UpdateAll2.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolTracker.DAL\u017E\\Migrations\\20250624120424_UpdateAll2.cs",
+              "RelativeDocumentMoniker": "SchoolTracker.DAL\u017E\\Migrations\\20250624120424_UpdateAll2.cs",
+              "ToolTip": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolTracker.DAL\u017E\\Migrations\\20250624120424_UpdateAll2.cs",
+              "RelativeToolTip": "SchoolTracker.DAL\u017E\\Migrations\\20250624120424_UpdateAll2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T12:04:25.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "SchoolTracker.Model.csproj",
+              "DocumentMoniker": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolTracker.Model\\SchoolTracker.Model.csproj",
+              "RelativeDocumentMoniker": "SchoolTracker.Model\\SchoolTracker.Model.csproj",
+              "ToolTip": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolTracker.Model\\SchoolTracker.Model.csproj",
+              "RelativeToolTip": "SchoolTracker.Model\\SchoolTracker.Model.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-21T12:29:38.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "20250624101124_UpdateModelStructure.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolTracker.DAL\u017E\\Migrations\\20250624101124_UpdateModelStructure.cs",
+              "RelativeDocumentMoniker": "SchoolTracker.DAL\u017E\\Migrations\\20250624101124_UpdateModelStructure.cs",
+              "ToolTip": "C:\\Users\\filip\\source\\repos\\SchoolWebApp\\SchoolTracker.DAL\u017E\\Migrations\\20250624101124_UpdateModelStructure.cs",
+              "RelativeToolTip": "SchoolTracker.DAL\u017E\\Migrations\\20250624101124_UpdateModelStructure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T10:11:25.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "FileConfigurationProvider.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\AppData\\Local\\Temp\\.vsdbgsrc\\b38c7bbc046e461a8a58c7e0eb00bea4828feec3606c51aaae6062bc28a1448e\\FileConfigurationProvider.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\b38c7bbc046e461a8a58c7e0eb00bea4828feec3606c51aaae6062bc28a1448e\\FileConfigurationProvider.cs",
+              "ToolTip": "C:\\Users\\filip\\AppData\\Local\\Temp\\.vsdbgsrc\\b38c7bbc046e461a8a58c7e0eb00bea4828feec3606c51aaae6062bc28a1448e\\FileConfigurationProvider.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\b38c7bbc046e461a8a58c7e0eb00bea4828feec3606c51aaae6062bc28a1448e\\FileConfigurationProvider.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAUwEUAAAAEAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T11:02:19.778Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

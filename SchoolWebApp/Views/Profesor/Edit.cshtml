@@ -1,0 +1,18 @@
+﻿@model SchoolTracker.Model.Profesor
+
+@{
+    ViewData["Title"] = "Uredi Profesora";
+}
+<nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a asp-action="Index">Popis profesora</a></li>
+        <li class="breadcrumb-item active" aria-current="page">Uredi profesor</li>
+    </ol>
+</nav>
+
+
+<form asp-action="Edit">
+    <input type="hidden" asp-for="ID" />
+    <partial name="_CreateOrEdit" model="Model" />
+    <button type="submit" class="btn btn-primary">Save</button>
+</form>

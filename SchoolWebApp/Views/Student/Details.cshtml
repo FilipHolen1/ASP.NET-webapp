@@ -1,0 +1,40 @@
+﻿@model SchoolTracker.Model.Student
+
+@{
+    ViewData["Title"] = "Detalji učenika";
+}
+
+<h2>Detalji učenika</h2>
+
+<p><strong>Ime:</strong> @Model.FullName</p>
+<p><strong>Email:</strong> @Model.Email</p>
+<p><strong>Razred:</strong> @Model.ClassYear?.Name</p>
+<p><strong>Datum rođenja:</strong> @Model.DateOfBirth?.ToString("dd.MM.yyyy")</p>
+
+<h4>Ocjene</h4>
+@if (Model.Grades.Any())
+{
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Predmet</th>
+                <th>Ocjena</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var grade in Model.Grades)
+            {
+                <tr>
+                    <td>@grade.Subject?.Name</td>
+                    <td>@grade.Value</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>Učenik još nema unešene ocjene.</p>
+}
+
+<a asp-action="Index" class="btn btn-secondary">Natrag</a>

@@ -1,0 +1,60 @@
+﻿@using SchoolTracker.Model
+@using SchoolWebApp.Web.Models
+@model List<Profesor>
+
+@{
+    ViewData["Title"] = "Popis profesora";
+}
+
+<h1>Popis profesora</h1>
+
+<div style="margin-top: 20px; margin-bottom: 10px;">
+    <partial name="_ProfesorFilter" model="new ProfesorFilterModel()" />
+</div>
+
+<div id="profesor-table-container">
+    <partial name="_IndexTable" model="Model" />
+</div>
+
+@section Scripts {
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $("#btn-filter").click(function () {
+                const formData = $("#filter-form").serialize();
+                $.ajax({
+                    url: '@Url.Action("IndexAjax", "Profesor")',
+                    type: 'POST',
+                    data: formData,
+                    success: function (result) {
+                        $("#profesor-table-container").html(result);
+                    }
+                });
+            });
+        });
+
+
+             $(document).on('click', '.btn-delete', function () {
+            var profesorId = $(this).data('id');
+            var row = $(this).closest('tr');
+
+            if (confirm('Jeste li sigurni da želite obrisati ovog profesora?')) {
+                $.ajax({
+                    url: '@Url.Action("DeleteConfirmed", "Profesor")',
+                    type: 'POST',
+                    data: { id: profesorId },
+                    success: function (response) {
+                        if (response.success) {
+                            row.remove();
+                        } else {
+                            alert('Greška prilikom brisanja.');
+                        }
+                    },
+                    error: function () {
+                        alert('Došlo je do greške prilikom brisanja.');
+                    }
+                });
+            }
+        });
+    </script>
+}

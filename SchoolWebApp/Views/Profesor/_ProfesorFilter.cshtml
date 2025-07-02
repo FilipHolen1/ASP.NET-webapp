@@ -1,0 +1,18 @@
+﻿@model SchoolWebApp.Web.Models.ProfesorFilterModel
+
+<form id="filter-form" class="form-inline mb-3">
+    <div class="form-group me-2">
+        <label for="FullName" class="form-label me-1">Ime i prezime:</label>
+        <input type="text" name="FullName" class="form-control" value="@Model.FullName" />
+    </div>
+    <div class="form-group me-2">
+        <label for="Email" class="form-label me-1">Email:</label>
+        <input type="text" name="Email" class="form-control" value="@Model.Email" />
+    </div>
+    <br />
+    <button type="button" id="btn-filter" class="btn btn-primary">Filtriraj</button><br />
+    <br />
+    <div class="col">
+        <a asp-action="Create" class="btn btn-success">Novi</a>
+    </div>
+</form>

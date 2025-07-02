@@ -1,0 +1,2 @@
+C:\Users\filip\source\repos\SchoolWebApp\SchooleTracker.Models\obj\Debug\SchooleTracker.Models.csproj.AssemblyReference.cache
+C:\Users\filip\source\repos\SchoolWebApp\SchooleTracker.Models\obj\Debug\SchooleTracker.Models.csproj.CoreCompileInputs.cache
